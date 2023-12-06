@@ -1,0 +1,31 @@
+header{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+header a{
+    color: gray !important;
+    text-transform: uppercase;
+}
+
+header a:hover{
+    color: rgb(255, 179, 80) !important;
+    
+}
+.banner{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+@media screen and (max-width:600px) {
+    .logo{
+        text-align: center;
+    }
+
+    .top-menu{
+        justify-content: center !important;
+    }
+
+ 
+    
+}
